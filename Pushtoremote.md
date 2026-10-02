@@ -4,3 +4,8 @@ If you prefer not to type commands, VS Code has excellent built-in Git integrati
 2. Stage your changes: Hover over Changes and click the + (plus) icon to stage all modified files.
 3. Commit your changes: Type your update message in the text box at the top and click the Commit button (or checkmark icon).
 4. Push to the repository: Click the blue Sync Changes button that appears, or click the ... (More Actions) menu next to the commit area and select Push.
+
+Command line: 
+git add .
+git commint -m "message"
+git push
